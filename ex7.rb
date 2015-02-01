@@ -1,0 +1,1 @@
+An array is an ordered set of values or strings while a hash is an ordered set of values or strings associated with a symbol which is followed by a colon ":"
